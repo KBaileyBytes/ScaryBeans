@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScaryBeans
-- 👀 I’m interested in SoftwareDevelopment
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Business Information Technology @ Red River College
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ScaryBeans0@gmail.com
